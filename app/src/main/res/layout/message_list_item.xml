@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/interior_lin_lay"
+        android:background="@color/com_facebook_button_like_background_color_selected"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="text"
+        android:textSize="17sp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginStart="3dp"
+        android:textColor="@android:color/black"
+        android:id="@+id/message_msg_text"/>
+    <ImageView
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:id="@+id/message_msg_image"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="fitCenter"
+        android:layout_marginEnd="3dp"
+        android:layout_marginStart="3dp"
+        android:layout_gravity=""/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="name"
+        android:layout_marginEnd="3dp"
+        android:layout_marginStart="3dp"
+        android:id="@+id/message_user_name"
+        android:textSize="9sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="time"
+        android:textSize="9sp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginStart="3dp"
+        android:id="@+id/message_time_text"
+        />
+</LinearLayout>
+</LinearLayout>

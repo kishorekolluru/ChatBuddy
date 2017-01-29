@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "97185015287",
+    "firebase_url": "https://madproject-fc187.firebaseio.com",
+    "project_id": "madproject-fc187",
+    "storage_bucket": "madproject-fc187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97185015287:android:98b891b97e8d48fd",
+        "android_client_info": {
+          "package_name": "org.kishore.mad.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97185015287-j47bb5dt5s7l48o2pccgrbdfmsinr78i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.kishore.mad.firebase",
+            "certificate_hash": "B7B0C40E14CDFEF6F74D8551B6985916ABC418E7"
+          }
+        },
+        {
+          "client_id": "97185015287-24r4im2ka4jbd0iaufc280bnooecee1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVc7zbbTzPujbUP78G8H9Edx4irj2bNJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97185015287-24r4im2ka4jbd0iaufc280bnooecee1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97185015287:android:168d3e5f18cf242c",
+        "android_client_info": {
+          "package_name": "kishore.mad.com.expenseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97185015287-9ico09akkaack14p859s634tge9hbt0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kishore.mad.com.expenseapp",
+            "certificate_hash": "B7B0C40E14CDFEF6F74D8551B6985916ABC418E7"
+          }
+        },
+        {
+          "client_id": "97185015287-24r4im2ka4jbd0iaufc280bnooecee1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVc7zbbTzPujbUP78G8H9Edx4irj2bNJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97185015287-24r4im2ka4jbd0iaufc280bnooecee1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97185015287:android:b2a27b2e8d1ee94d",
+        "android_client_info": {
+          "package_name": "message.mad.kishore.org.messageboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97185015287-ilk5ta9f23l96u1nracblus1cf7lasj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "message.mad.kishore.org.messageboard",
+            "certificate_hash": "B7B0C40E14CDFEF6F74D8551B6985916ABC418E7"
+          }
+        },
+        {
+          "client_id": "97185015287-24r4im2ka4jbd0iaufc280bnooecee1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVc7zbbTzPujbUP78G8H9Edx4irj2bNJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97185015287-24r4im2ka4jbd0iaufc280bnooecee1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97185015287:android:a618439cd28ad419",
+        "android_client_info": {
+          "package_name": "com.example.raviteja.chat_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97185015287-g24qelkkaj87l4gfrrsnkrem6i1ksf7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raviteja.chat_buddy",
+            "certificate_hash": "B7B0C40E14CDFEF6F74D8551B6985916ABC418E7"
+          }
+        },
+        {
+          "client_id": "97185015287-24r4im2ka4jbd0iaufc280bnooecee1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVc7zbbTzPujbUP78G8H9Edx4irj2bNJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97185015287-24r4im2ka4jbd0iaufc280bnooecee1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

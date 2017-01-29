@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_message"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.raviteja.chat_buddy.MessageActivity">
+<ListView
+    android:layout_width="match_parent"
+    android:layout_height="450dp"
+    android:id="@+id/message_list_view"></ListView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingEnd="5dp"
+        android:paddingBottom="3dp"
+        android:id="@+id/message_linLay1"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/message_list_view">
+        <EditText
+            android:layout_width="0dp"
+            android:id="@+id/message_message_text"
+            android:layout_height="wrap_content"
+            android:hint="Type your message here"
+            android:layout_weight="1"
+            />
+        <ImageView
+            android:layout_width="40dp"
+            android:id="@+id/message_send_icon"
+            android:layout_height="40dp"
+            android:src="@drawable/send_msg"/>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/image_select"
+            android:src="@drawable/gallery"/>
+    </LinearLayout>
+</RelativeLayout>
